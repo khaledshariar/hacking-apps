@@ -1,6 +1,4 @@
-This page is available as an easy-to-read website at [https://albertomosconi.github.io/foss-apps](https://albertomosconi.github.io/foss-apps).
-
-<h1 id="title" align="center">Cool FOSS Android Apps</h1>
+<h1 id="title" align="center">Cool Hacking Apps for Android</h1>
 
 <div align="center">
 <p align="center">
