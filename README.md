@@ -399,7 +399,7 @@ Any app suggestion is more than welcome and should be submitted via an [issue](h
 
 **[`^ back to top ^`](#title)**
 
-- [Building a self-updating profile README for GitHub](https://getandroidstuff.com/best-hacking-apps-for-android/ "Best Free Hacking Apps for Android")
+- [The Best Hacking Apps for Android](https://getandroidstuff.com/best-hacking-apps-for-android/ "Best Free Hacking Apps for Android")
 
 ---
 
