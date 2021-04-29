@@ -556,9 +556,7 @@ fetch("https://raw.githubusercontent.com/albertomosconi/foss-apps/master/apps.js
 
 **[`^ back to top ^`](#title)**
 
-- [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and "A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)")
-- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ "A List of Open Source Applications (Reddit)")
-- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme "Building a self-updating profile README for GitHub")
+- [Building a self-updating profile README for GitHub](https://getandroidstuff.com/best-hacking-apps-for-android/ "Best Free Hacking Apps for Android")
 
 ---
 
